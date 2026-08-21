@@ -35,7 +35,7 @@ Week_7/    Week_8-9/  Week_10/   myreport.pdf
 3. Compile the Java files: `javac *.java`
 4. Run the main class: `java Main`
 
-For Week 1, run `java HelloWorld` or `java StudentGrade`.
+
 
 ## Reflection Summary
 
