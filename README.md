@@ -1,4 +1,5 @@
 
+# BIT1123 Object Oriented Programming
 
 ## Student Information
 
@@ -11,6 +12,28 @@
 
 This repository contains my Java tutorial work for BIT1123. I used the
 tutorials to practise basic Java programming and Object-Oriented Programmin
+
+## Repository Structure
+
+```text
+Week_1/    Week_2/    WEEK.3/    Week_5/    Week_6/
+Week_7/    Week_8-9/  Week_10/   myreport.pdf
+```
+
+## Week 7 - Smart Home Appliance Management System
+
+In Week 7, I learned about **abstraction**. The `Appliance` abstract class
+stores the brand and has common methods for displaying the brand, turning the
+power on, and turning the power off. `WashingMachine` and `Refrigerator`
+inherit from it and provide their own `operate()` method.
+
+Run Week 7 using:
+
+```bash
+cd Week_7
+javac *.java
+java Main
+```
 
 ## Technologies Used
 
