@@ -1,6 +1,7 @@
-class lecturer extends Person {
+/** Week 3-4: Lecturer inherits from Person. */
+class Lecturer extends Person {
 
-    public lecturer(String name, String id) {
+    public Lecturer(String name, String id) {
         super(name, id);
     }
 

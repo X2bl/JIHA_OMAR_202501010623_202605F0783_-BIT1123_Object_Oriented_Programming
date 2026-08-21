@@ -1,3 +1,4 @@
+/** Week 3-4: Student inherits from Person. */
 class Student extends Person {
 
     public Student(String name, String id) {

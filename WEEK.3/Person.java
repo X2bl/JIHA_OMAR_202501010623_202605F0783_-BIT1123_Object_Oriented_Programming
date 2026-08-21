@@ -1,3 +1,4 @@
+/** Week 3-4: parent class for people in the university. */
 class Person {
 
     private String name;
@@ -17,6 +18,6 @@ class Person {
     }
 
     public void introduce() {
-        System.out.println("I am a person");
+        System.out.println("I am a person.");
     }
 }
